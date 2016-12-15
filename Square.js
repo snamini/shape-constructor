@@ -1,6 +1,6 @@
 var Shape = require('./Shape.js');
 
-    var Square = function(side) {
+var Square = function(side) {
         this.side = side;
     };
 
